@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">OrderSystem</string>
+    <string name="menu">导航</string>
 </resources>
